@@ -3,5 +3,6 @@
     "remaining": {
       "include": true
     }
-  }
+  },
+  "setting2": "hello"
 }
